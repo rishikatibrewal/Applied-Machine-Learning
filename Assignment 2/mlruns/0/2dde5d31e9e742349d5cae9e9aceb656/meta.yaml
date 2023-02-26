@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Rishika%20Tibrewal/OneDrive/Desktop/AML/Applied-Machine-Learning/Assignment%202/mlruns/0/2dde5d31e9e742349d5cae9e9aceb656/artifacts
+end_time: 1677409143288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dde5d31e9e742349d5cae9e9aceb656
+run_name: whimsical-flea-253
+run_uuid: 2dde5d31e9e742349d5cae9e9aceb656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677409134070
+status: 3
+tags: []
+user_id: Rishika Tibrewal

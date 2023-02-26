@@ -1,0 +1,12 @@
+creation_timestamp: 1677409154130
+current_stage: None
+description: null
+last_updated_timestamp: 1677409154130
+name: random-forest-classification-model
+run_id: cc2d239d41a0441592169baf307f5d34
+run_link: null
+source: file:///c:/Users/Rishika%20Tibrewal/OneDrive/Desktop/AML/Applied-Machine-Learning/Assignment%202/mlruns/0/cc2d239d41a0441592169baf307f5d34/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

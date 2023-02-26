@@ -1,0 +1,12 @@
+creation_timestamp: 1677409309928
+current_stage: None
+description: null
+last_updated_timestamp: 1677409309928
+name: multilayer-perceptron-model
+run_id: 33f7f5d350354ebbb3825e475e905b05
+run_link: null
+source: file:///c:/Users/Rishika%20Tibrewal/OneDrive/Desktop/AML/Applied-Machine-Learning/Assignment%202/mlruns/0/33f7f5d350354ebbb3825e475e905b05/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
